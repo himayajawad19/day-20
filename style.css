@@ -1,0 +1,28 @@
+body {
+  /* backgr
+    
+ // background-image: url(/23f901f0-c35a-4df8-b7c9-86178c5b97cb.jpg); */
+  background-color: rgb(85, 67, 42);
+}
+
+.container {
+  display: block;
+  text-align: center;
+  margin: 200px;
+  background-color: rgba(222, 184, 135, 0.493);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 30px;
+  color: wheat;
+}
+
+button {
+  padding: 10px;
+  margin: 0px;
+  background-color: rgba(54, 20, 4, 0.664);
+  border-color: rgba(54, 20, 4, 0.664);
+  color: beige;
+}
+input {
+  padding: 10px;
+  margin: 0px;
+}
